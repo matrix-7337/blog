@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+# About Me
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **3l3v3n**.
+
+I'm a cybersecurity student focused on **DFIR (Digital Forensics & Incident Response)** and **defensive security**. This blog documents my cybersecurity journey through CTF and challenge writeups, where I share my methodology, solutions, and lessons learned.
+
+You'll also find occasional tips, tricks, and notes that I discover along the way.
+
+This site serves as both my personal knowledge base and a way to give back to the cybersecurity community.
+
+**Learn. Analyze. Defend.**

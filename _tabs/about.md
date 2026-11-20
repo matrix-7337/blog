@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: about
 icon: 
 order: 4
 ---

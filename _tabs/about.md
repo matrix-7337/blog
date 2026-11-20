@@ -1,6 +1,3 @@
----
-# About Me
-
 Hi, I'm **3l3v3n**.
 
 I'm a cybersecurity student focused on **DFIR (Digital Forensics & Incident Response)** and **defensive security**. This blog documents my cybersecurity journey through CTF and challenge writeups, where I share my methodology, solutions, and lessons learned.

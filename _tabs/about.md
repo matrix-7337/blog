@@ -1,6 +1,3 @@
----
-About Me
----
 
 Hi, I'm **3l3v3n**.
 

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: 
 icon: 
 order: 4
 ---

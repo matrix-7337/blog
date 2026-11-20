@@ -1,7 +1,5 @@
 ---
-layout: 
-icon: 
-order: 4
+ABOUT ME 
 ---
 
 Hi, I'm **3l3v3n**.

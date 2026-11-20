@@ -8,3 +8,4 @@ You'll also find occasional tips, tricks, and notes that I discover along the wa
 This site serves as both my personal knowledge base and a way to give back to the cybersecurity community.
 
 **Learn. Analyze. Defend.**
+   
